@@ -3,3 +3,4 @@ scikit-learn
 bokeh
 ipython[notebook]
 keras
+h5py
